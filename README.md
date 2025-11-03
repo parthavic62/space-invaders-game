@@ -25,20 +25,20 @@ Built With
  How to Run
 
 1. Clone this repository:
-```bash
+
 git clone https://github.com/parthavic62/space-invaders-game.git
 cd space-invaders-game
 
-Install dependencies:
+2. Install dependencies:
 
 pip install pygame
 
-Run the game:
+3. Run the game:
 
 python space_invaders.py
 
 
-How to Play
+-----------How to Play---------------
 
 ← → Arrow keys to move your cannon left and right
 Spacebar to shoot
