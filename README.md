@@ -41,11 +41,13 @@ python space_invaders.py
 -----------How to Play---------------
 
 ← → Arrow keys to move your cannon left and right
+
 Spacebar to shoot
 
 Goal: Destroy all alien invaders before they reach the bottom!
 
 -----------What I Learned------------
+
 This project taught me:
 
 Game loop architecture and frame-based updates
@@ -56,6 +58,7 @@ Event handling and user input processing
 Balancing gameplay mechanics for player engagement
 
 ---------Future Improvements-----------
+
 
 Add sound effects and background music
 Implement power-ups and special weapons
