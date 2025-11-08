@@ -78,6 +78,7 @@ Develop additional enemy types with unique behaviors
 
 
 License
+
 This project was created for educational purposes as part of my A-Level Computer Science coursework.
 
 Developer: Parthavi Chauhan | Computer Engineering @ UIUC
