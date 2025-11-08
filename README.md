@@ -4,18 +4,18 @@ Space Invaders
 
 A classic arcade-style shooter game built from scratch in Python as my A-Level Computer Science summer project.
 
-About
+**About**
 
 This is a complete recreation of the classic Space Invaders arcade game, featuring progressive difficulty and engaging gameplay mechanics. Players defend Earth by controlling a ground cannon and shooting down waves of descending alien invaders.
 
 Features
 
-- **Player Controls**: Smooth arrow key movement and spacebar shooting mechanics
-- **Adaptive Enemy AI**: Aliens increase speed and move closer as the game progresses
-- **Dynamic Difficulty**: Multiple levels with escalating challenge
-- **Scoring System**: Track your performance across gameplay sessions
-- **Collision Detection**: Precise hit detection for projectiles and enemies
-- **Custom Rendering**: Built-in visual system for sprites, enemies, and projectiles
+- Player Controls: Smooth arrow key movement and spacebar shooting mechanics
+- Adaptive Enemy AI: Aliens increase speed and move closer as the game progresses
+- Dynamic Difficulty: Multiple levels with escalating challenge
+- Scoring System: Track your performance across gameplay sessions
+- Collision Detection: Precise hit detection for projectiles and enemies
+- Custom Rendering: Built-in visual system for sprites, enemies, and projectiles
 
 Built With
 
@@ -42,8 +42,8 @@ python space_invaders.py
 
 ← → Arrow keys to move your cannon left and right
 Spacebar to shoot
-Goal: Destroy all alien invaders before they reach the bottom
-Survive through increasingly difficult levels!
+
+Goal: Destroy all alien invaders before they reach the bottom!
 
 -----------What I Learned------------
 This project taught me:
