@@ -50,21 +50,32 @@ Goal: Destroy all alien invaders before they reach the bottom!
 
 This project taught me:
 
-Game loop architecture and frame-based updates
-Object-oriented programming for game entities
-State management for game progression
-Collision detection algorithms
-Event handling and user input processing
-Balancing gameplay mechanics for player engagement
+-Game loop architecture and frame-based updates 
+
+-Object-oriented programming for game entities
+
+-State management for game progression
+
+-Collision detection algorithms
+
+-Event handling and user input processing
+
+-Balancing gameplay mechanics for player engagement
+
 
 ---------Future Improvements-----------
 
 
 Add sound effects and background music
+
 Implement power-ups and special weapons
+
 Create boss battles
+
 Add high score persistence
+
 Develop additional enemy types with unique behaviors
+
 
 License
 This project was created for educational purposes as part of my A-Level Computer Science coursework.
