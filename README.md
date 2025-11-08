@@ -25,17 +25,20 @@ Built With
  How to Run
 
 1. Clone this repository:
-
+```bash
 git clone https://github.com/parthavic62/space-invaders-game.git
 cd space-invaders-game
+```
 
 2. Install dependencies:
-
+```bash
 pip install pygame
+```
 
 3. Run the game:
-
+```bash
 python space_invaders.py
+```
 
 
 -----------How to Play---------------
